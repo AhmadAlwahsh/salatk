@@ -1,0 +1,15 @@
+{
+  "short_name": "صلاتك",
+  "name": "مواقيت الصلاة",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ff9900",
+  "background_color": "#333"
+}
